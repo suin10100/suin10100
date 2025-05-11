@@ -20,4 +20,4 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=ㅡfirebase&logoColor=white)
 
 ### Tools
-![Notion](https://img.shields.io/badge/-Notion-#000000?style=for-the-badge&logo=ㅡnotion&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=ㅡnotion&logoColor=white)
