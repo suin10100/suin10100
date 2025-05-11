@@ -16,8 +16,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=ㅡmysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=ㅡfirebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Tools
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=ㅡnotion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
